@@ -1,3 +1,26 @@
 {
-  "rooms":[]
+  "student": [
+    {
+      "name": "slll",
+      "mobile": "llll",
+      "joinedDate": "2024-10-27",
+      "room": "llllll",
+      "id": 1
+    },
+    {
+      "name": "sllllklk",
+      "mobile": "llllkl",
+      "joinedDate": "2024-10-27",
+      "room": "llllll",
+      "id": 2
+    },
+    {
+      "name": "sllllklk",
+      "mobile": "llllklkklk",
+      "joinedDate": "2024-10-27",
+      "room": "llllll",
+      "id": 3
+    }
+  ],
+  "rooms": []
 }
