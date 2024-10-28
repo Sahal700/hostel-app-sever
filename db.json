@@ -1,25 +1,36 @@
 {
   "student": [
     {
-      "name": "slll",
-      "mobile": "llll",
-      "joinedDate": "2024-10-27",
-      "room": "llllll",
+      "name": "name1",
+      "mobile": "29984849",
+      "joinedDate": "2024-10-28",
+      "room": "hfakhjhd",
+      "fee": "payed",
       "id": 1
     },
     {
-      "name": "sllllklk",
-      "mobile": "llllkl",
-      "joinedDate": "2024-10-27",
-      "room": "llllll",
+      "name": "name2",
+      "mobile": "9098908",
+      "joinedDate": "2024-10-29",
+      "room": "73",
+      "fee": "payed",
       "id": 2
     },
     {
-      "name": "sllllklk",
-      "mobile": "llllklkklk",
-      "joinedDate": "2024-10-27",
-      "room": "llllll",
+      "name": "name3",
+      "mobile": "9999",
+      "joinedDate": "2024-10-28",
+      "room": "3",
+      "fee": "pending",
       "id": 3
+    },
+    {
+      "name": "name3",
+      "mobile": "000000000",
+      "joinedDate": "2024-10-24",
+      "room": "33",
+      "fee": "payed",
+      "id": 4
     }
   ],
   "rooms": []
